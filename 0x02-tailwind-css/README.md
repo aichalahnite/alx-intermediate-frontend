@@ -20,15 +20,6 @@ This project is designed to help you master the use of Tailwind CSS for creating
 - Modern browser to render and test designs.
 - Internet connection for accessing Tailwind’s documentation and CDN links.
 
-## Milestones
-
-### Milestone 1: CSS Grid and Flexbox: Creating Complex, Responsive Layouts Using Tailwind
-- **Project Start Date:** May 12, 2025
-- **Project End Date:** May 19, 2025
-- **Checker Released:** May 12, 2025
-- **Manual QA:** Must be requested once project is complete.
-- **Auto Review:** Will be launched at the deadline.
-
 ## Tasks
 
 ### 0. Setting Up and Installing Tailwind CSS with Configuration
@@ -56,6 +47,8 @@ This project is designed to help you master the use of Tailwind CSS for creating
     ```bash
     npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
     ```
+    ![Image](https://github.com/user-attachments/assets/5fb28ea2-c4d5-4eff-8b3d-ed7f09b459ef)
+    
 - **Repo Details:**
   - GitHub Repository: `alx-intermediate-frontend`
   - Directory: `0x02-tailwind-css`

@@ -1,0 +1,15 @@
+// Define the mixin
+@mixin marginLR($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
+// Use the mixin for body
+body {
+  @include marginLR(10px);
+}
+
+// Use the mixin for div
+div {
+  @include marginLR(15px);
+}

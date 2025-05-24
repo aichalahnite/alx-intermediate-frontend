@@ -1,0 +1,16 @@
+# Steps to install Node.js, npm, and Sass
+
+# Step 1: Install Node.js and npm
+# For Ubuntu/Debian-based systems
+sudo apt update
+sudo apt install nodejs npm -y
+
+# Verify installation
+node -v    # Should print version (e.g. v18.x or v20.x)
+npm -v     # Should print version (e.g. 9.x)
+
+# Step 2: Install Sass using npm
+sudo npm install -g sass
+
+# Step 3: Verify Sass installation
+sass --version    # Should print version (e.g. 1.89.0)

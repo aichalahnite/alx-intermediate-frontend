@@ -47,7 +47,6 @@ This project is designed to help you master the use of Tailwind CSS for creating
     ```bash
     npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
     ```
-    ![Image](https://github.com/user-attachments/assets/5fb28ea2-c4d5-4eff-8b3d-ed7f09b459ef)
     
 - **Repo Details:**
   - GitHub Repository: `alx-intermediate-frontend`
@@ -71,6 +70,8 @@ This project is designed to help you master the use of Tailwind CSS for creating
       }
     }
     ```
+![image](https://github.com/user-attachments/assets/a13a0b03-eec9-4168-a7f9-3f1f5d22742c)
+
 - **Repo Details:**
   - File: `1-index.html`
 
@@ -78,6 +79,8 @@ This project is designed to help you master the use of Tailwind CSS for creating
 - **Objective:** Implement a complex layout with nested grids.
 - **Instructions:**
   - Create `2-index.html` using 2x2 grids and style with `bg-blue-400`, `bg-blue-500`, `bg-red-200`.
+![image](https://github.com/user-attachments/assets/64c3a5b5-1c75-4253-a459-b16911d6d61e)
+
 - **Repo Details:**
   - File: `2-index.html`
 
@@ -85,6 +88,8 @@ This project is designed to help you master the use of Tailwind CSS for creating
 - **Objective:** Build a horizontal nav bar using Flexbox.
 - **Instructions:**
   - Create `3-nav_index.html` and use Flexbox utilities and media queries.
+![image](https://github.com/user-attachments/assets/74ffbaa3-f049-4153-91b5-5af701b3a668)
+
 - **Repo Details:**
   - File: `3-nav_index.html`
 
@@ -92,6 +97,7 @@ This project is designed to help you master the use of Tailwind CSS for creating
 - **Objective:** Build a responsive layout.
 - **Instructions:**
   - Create `4-flexbox_index.html` and use Flexbox on `main`, style `aside` and `section`.
+![Image](https://github.com/user-attachments/assets/895c59e4-17bb-43c3-95a5-7f0676db3d7a)
 - **Repo Details:**
   - File: `4-flexbox_index.html`
 
@@ -99,6 +105,7 @@ This project is designed to help you master the use of Tailwind CSS for creating
 - **Objective:** Use CSS Grid for large screens and Flexbox for small screens.
 - **Instructions:**
   - Create `5-gridflex_index.html`.
+![Image](https://github.com/user-attachments/assets/7ca26976-dcce-4319-88a6-ac8680330719)
 - **Repo Details:**
   - File: `5-gridflex_index.html`
 
